@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="time_color">#ffffff</color>
+    <color name="date_color">#ffffff</color>
+    <color name="message_color">#ffffff</color>    
+    <color name="call_color">#000000</color>   
+    <color name="white">#ffffff</color>      
+    <color name="red">#ff0000</color>             
+</resources>

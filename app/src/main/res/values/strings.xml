@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ごはんですよ</string>
+    <string name="service_start">開始</string>    
+    <string name="service_stop">停止</string>
+    
+    <string name="lock_time_format">HH:mm</string>
+    <string name="lock_date_format">MM月dd日</string>
+    
+    
+    
+    <string name="notification_title" >ごはんですよ</string>
+    <string name="notification_message" >「ごはんですよ」は実行中です。</string>
+    
+    <string name="device_admin_error_title">エラー</string>
+    <string name="device_admin_error_message">デバイス管理者の設定がされていないと、自動スリープ機能は有効になりません。</string>
+    
+    <string name="bluetooth_error_title">エラー</string>
+    <string name="bluetooth_error_message">Bluetooth機能が有効でないと、ごはんですよ！を使用することはできません。</string>
+    
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    
+    <string name="setting_nfc_title">確認</string>
+    <string name="setting_nfc_message">”スイッチ”を端末に登録しますか？</string>    
+
+    <string name="setting_nfc_registed_title">確認</string>
+    <string name="setting_nfc_registed_message">この”スイッチ”ですでに登録済みです</string>     
+    
+    <string name="setting_nfc_update_title">確認</string>
+    <string name="setting_nfc_update_message">”スイッチ”の情報はすでに登録されています。\n設定情報を上書きしますか？</string>
+    
+    <string name="password_title">パスワードの入力</string>
+    <string name="password_message">解除用のパスワードを入力して下さい。</string> 
+    <string name="password_remarks">※パスワードが不要な場合は、「Cancel」を選択してください</string> 
+    <string name="password_show">パスワードを表示する</string>
+    <string name="password_no_match">パスワードが一致していません</string>
+    <string name="password_no_input">パスワードが入力されていません</string>    
+    
+    
+    <string name="setting_input_title">”スイッチ”が未登録です</string> 
+    <string name="setting_input_message">”スイッチ”の情報が登録されていません</string> 
+    <string name="setting_input_remarks">”スイッチ”に記載されている情報を登録して下さい</string>     
+    <string name="setting_input_error">情報が正しく登録されていません</string>     
+    
+    <string name="clear_setting">初期化</string>
+    
+    <string name="clear_setting_title">確認</string>
+    <string name="clear_setting_message">”スイッチ”の情報を初期化しますか？</string> 
+</resources>

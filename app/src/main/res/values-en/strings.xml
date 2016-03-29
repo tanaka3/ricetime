@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EatingTime</string>
+    <string name="service_start">Start</string>
+    <string name="service_stop">Stop</string>
+    
+    <string name="lock_time_format">HH:mm</string>
+    <string name="lock_date_format">MM/dd</string>
+
+    <string name="notification_title" >EatingTime</string>
+    <string name="notification_message" >Running EatingTime</string>
+    
+    <string name="device_admin_error_title">Error</string>
+    <string name="device_admin_error_message">If it is not the setting of the device administrator , automatic sleep function does not take effect.</string>
+    
+    <string name="bluetooth_error_title">Error</string>
+    <string name="bluetooth_error_message">When the Bluetooth feature is not enabled , it is rice ! It is not possible to use .</string>
+    
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    
+    <string name="setting_nfc_title">Information</string>
+    <string name="setting_nfc_message">Are you sure you want to add to the terminal a "switch" ?</string>
+
+    <string name="setting_nfc_registed_title">Information</string>
+    <string name="setting_nfc_registed_message">It is already registered in this "switch"</string>
+    
+    <string name="setting_nfc_update_title">Information</string>
+    <string name="setting_nfc_update_message">Information of " switch " has already been registered.\nDo you want to overwrite the configuration information ?</string>
+    
+    <string name="password_title">Input password</string>
+    <string name="password_message">Enter a password for the release .</string>
+    <string name="password_remarks">*If no password is required, please select the "Cancel"</string>
+    <string name="password_show">To view the password</string>
+    <string name="password_no_match">Passwords do not match</string>
+    <string name="password_no_input">Password has not been input</string>
+    
+    
+    <string name="setting_input_title">"Switch " is unregistered</string>
+    <string name="setting_input_message">Information of " switch " has not been registered</string>
+    <string name="setting_input_remarks">Please register the information that is described in the "switch"</string>
+    <string name="setting_input_error">Information has not been properly registered</string>
+    
+    <string name="clear_setting">Initialization</string>
+
+    <string name="clear_setting_title">Information</string>
+    <string name="clear_setting_message">Are you sure you want to initialize the information of the "switch" ?</string>
+</resources>

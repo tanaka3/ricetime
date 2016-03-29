@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="time_font_size">170dp</dimen>
+    <dimen name="date_font_size">70dp</dimen>
+</resources>

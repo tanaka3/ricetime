@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/rice" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" 
+        android:gravity="center"       
+        android:orientation="vertical" >
+	    <net.masaya3.ricetime.control.FontTextView
+	        android:id="@+id/timeText"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="00:00"
+	        android:textColor="@color/time_color"
+	        android:textSize="@dimen/time_font_size" />
+	
+	    <net.masaya3.ricetime.control.FontTextView
+	        android:id="@+id/dateText"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="12月31日"
+	        android:textColor="@color/time_color"
+	        android:textSize="@dimen/date_font_size" />        
+    </LinearLayout>
+    
+
+
+</RelativeLayout>
